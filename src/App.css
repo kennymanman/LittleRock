@@ -1,38 +1,183 @@
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.headerone{
+  text-align: center;
+}
+.headertwo{
+  text-align: center;
+}
+.bue{
+  background-color: peachpuff;
+}
+.black{
+  position: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+
+.bitch{
+  text-align: center;
+}
+
+.lamb{
+  text-align: center;
+}
+.bvn{
+  background-color:#1f68cf;
+}
+.yun{
+  padding-top: 2rem;
+}
+.kun{
+  padding-bottom: 2rem;
+}
+
+
+
+ .val{
+   text-align: center;
+   padding-top: 2rem;
+ }
+  .enjoy{
+    border:3px;
+     border-style:solid;
+      border-color:#00c3ff;
+       padding:1em;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+ 
+  .vcn{
+    color: blanchedalmond;
   }
-  to {
-    transform: rotate(360deg);
-  }
+ .nhu{
+   width: 40rem;
+   height: rem;
+   
+ } 
+ .mark{
+   justify-content: end;
+ }
+ .sad{
+   text-align: center;
+ }
+.mb{
+  text-align: center;
+  color: #00c3ff;
+}
+.navy{
+  background-color: #1f68cf;
+}
+.lan{
+  color: #00c3ff;
+}
+.bag{
+  column-width: ;
+}
+.mau{
+  color: yellow;
+}
+.jau{
+  color: black;
+}
+.carousel .item {
+  height: 300px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.mas{
+  height: 550px;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+.das{
+  align-content: flex-end ;
+}
+
+.nb{
+  color: yellow;
+}
+.cv{
+  background-color:  #1f68cf;
+}
+.jc{
+  color: yellow;
+}
+.cj{
+  color: white
+}
+.pc{
+  height: 400px;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+  min-width: 2000px;
+  
+}
+.df{
+  color: #00c3ff;
+}
+.uy{
+  background-color: rgb(255, 208, 0);
+}
+
+
+
+
+.rey{
+  text-align: center;
+  color: #00c3ff;
+}
+.rut{
+  color: aliceblue;
+}
+.juli{
+  color: #1f68cf
+}
+.xs{
+  color: #1f68cf
+}
+.life{
+  background-color: rgb(255, 208, 0);
+}
+.rem{
+  background-color: white;
+}
+.lav{
+  background-color: rgb(255, 208, 0);
+}
+.kin{
+  color: #00c3ff;
+  text-align: center;
+}
+
+.fg{
+  background-color:  #ebdf34;
+}
+.cuv{
+  text-align:center;
+}
+.pyt{
+  background-color:#1f68cf;
+}
+.mani{
+  color: whitesmoke;
+  text-align: center;
+  font-style: Akzidenz-Grotesk;
+}
+.newt{
+  align-content: stretch;
 }
