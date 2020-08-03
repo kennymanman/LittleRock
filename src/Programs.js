@@ -7,12 +7,12 @@ import Layout from "./Layout"
 //import ji from "./cam/ji.jpg"
 //import lu from "./cam/lu.jpg"
 //import hy from "./cam/hy.jpg"
-import nu from "./cam/nu.jpg"
+//import nu from "./cam/nu.jpg"
 //import op from "./cam/op.jpg"
 //import ui from "./cam/ui.jpg"
-import bask from "./Pics/bask.mp4"
+
 import * as ReactBootStrap from "react-bootstrap"
-import { Header } from 'semantic-ui-react'
+//import { Header } from 'semantic-ui-react'
 import { List } from 'semantic-ui-react'
 
 
