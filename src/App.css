@@ -175,7 +175,8 @@
 .mani{
   color: whitesmoke;
   text-align: center;
-  font-style: Akzidenz-Grotesk;
+  
+  font-family: 'Lato', sans-serif;
 }
 .newt{
   align-content: stretch;
