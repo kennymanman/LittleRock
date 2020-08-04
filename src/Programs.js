@@ -38,7 +38,7 @@ function Programs() {
 <br/>
         
 
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="sam">
   <ReactBootStrap.Container>
     <h1>Reception 1</h1>
     <p>
@@ -54,7 +54,7 @@ function Programs() {
 
 
            
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="dam">
   <ReactBootStrap.Container>
     <h1>Reception 2</h1>
     <p>
@@ -68,7 +68,7 @@ function Programs() {
 
 
 
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="fam">
   <ReactBootStrap.Container>
     <h1>Nursery 1</h1>
     <p>
@@ -79,7 +79,7 @@ function Programs() {
 </ReactBootStrap.Jumbotron>
 
            
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="gam">
   <ReactBootStrap.Container>
     <h1>Nursery 2</h1>
     <p>
@@ -91,7 +91,7 @@ function Programs() {
 
 
                     
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="ham">
   <ReactBootStrap.Container>
     <h1>Grade 1</h1>
     <p>
@@ -102,7 +102,7 @@ function Programs() {
 </ReactBootStrap.Jumbotron>
            
 
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="kam">
   <ReactBootStrap.Container>
     <h1>Grade 2</h1>
     <p>
@@ -113,7 +113,7 @@ function Programs() {
 </ReactBootStrap.Jumbotron>
            
 
-<ReactBootStrap.Jumbotron fluid>
+<ReactBootStrap.Jumbotron fluid className="lam">
   <ReactBootStrap.Container>
     <h1>Grade 3</h1>
     <p>
@@ -123,7 +123,7 @@ function Programs() {
   </ReactBootStrap.Container>
 </ReactBootStrap.Jumbotron>
 
-  <ReactBootStrap.Jumbotron fluid>
+  <ReactBootStrap.Jumbotron fluid className="pam">
   <ReactBootStrap.Container>
     <h1>Grade 4</h1>
     <p>
@@ -134,7 +134,7 @@ function Programs() {
 </ReactBootStrap.Jumbotron>
 
 
-   <ReactBootStrap.Jumbotron fluid>
+   <ReactBootStrap.Jumbotron fluid className="oam">
   <ReactBootStrap.Container>
     <h1>Grade 5</h1>
     <p>

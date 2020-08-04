@@ -151,21 +151,20 @@
   color: #1f68cf
 }
 .life{
-  background-color: rgb(255, 208, 0);
+  background-color: #FFFEB4;
 }
 .rem{
   background-color: white;
 }
-.lav{
-  background-color: rgb(255, 208, 0);
-}
+
+
 .kin{
   color: #00c3ff;
   text-align: center;
 }
 
 .fg{
-  background-color:  #ebdf34;
+  
 }
 .cuv{
   text-align:center;
@@ -180,4 +179,43 @@
 }
 .newt{
   align-content: stretch;
+}
+.sam{
+  border-radius: 25px;
+  background-color:  #83EAF1;
+}
+.dam{
+  border-radius: 25px;
+  background-color:  #09C6F9 
+  ;
+}
+.fam{
+  border-radius: 25px;
+  background-color: #63A4FF;
+}
+
+.gam{
+  border-radius: 25px;
+  background-color: #009FFD
+  ;
+}
+.ham{
+  border-radius: 25px;
+  background-color:  #045DE9;
+}
+.oam{
+  border-radius: 25px;
+  background-color: #BFBFFF ;
+}
+.pam{
+  border-radius: 25px;
+  background-color: #A3A3FF;
+}
+.lam{
+  border-radius: 25px;
+  background-color: #7879FF;
+}
+.kam{
+  border-radius: 25px;
+  background-color:  #4949FF;
 }

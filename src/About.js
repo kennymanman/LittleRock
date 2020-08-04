@@ -9,7 +9,7 @@ import Layout from "./Layout"
 
 function About() {
     return (
-        <div className="lif" >
+        <div className="life" >
 <br/>
 <h1 className="mb">About Us</h1>
 <br/>
