@@ -55,6 +55,8 @@ function ControlledCarousel() {
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </ReactBootStrap.Carousel.Caption>
         </ReactBootStrap.Carousel.Item>
+
+        
         <ReactBootStrap.Carousel.Item className="mas">
           <img
             className="d-block w-100"

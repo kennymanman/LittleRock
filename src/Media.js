@@ -21,10 +21,7 @@ function Media() {
     <ReactBootStrap.Media.Body>
       <h5 className="nb">Fighting the Covid-19</h5>
       <p className="cj"  >
-        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque
-        ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at,
-        tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-        fringilla. Donec lacinia congue felis in faucibus.
+        Due to the Covid-19 pandemic, Little Rock School has taken various steps and measures to provide a safe and healthy learning environment for our pupils. Hand sanitizers and washing areas are provided with the aid of face-masks or face-shields.
       </p>
     </ReactBootStrap.Media.Body>
   </ReactBootStrap.Media>
@@ -42,10 +39,7 @@ function Media() {
     <ReactBootStrap.Media.Body>
       <h5 className="nb">Online classes</h5>
       <p className="cj">
-        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque
-        ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at,
-        tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-        fringilla. Donec lacinia congue felis in faucibus.
+        Little Rock School online classes/virtual learning helps your child learn while at home, the school provides reading materials such as videos, images, documented lessons to ensure your child continues to grow intellectually.
       </p>
     </ReactBootStrap.Media.Body>
   </ReactBootStrap.Media>
@@ -63,10 +57,7 @@ function Media() {
     <ReactBootStrap.Media.Body>
       <h5 className="nb">Registration</h5>
       <p className="cj">
-        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque
-        ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at,
-        tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate
-        fringilla. Donec lacinia congue felis in faucibus.
+        Enrolling your child into Little Rock School requires you to visit our school in person, We are delighted to answer any questions you may have about registration. For more info contact the school for details.
       </p>
     </ReactBootStrap.Media.Body>
   </ReactBootStrap.Media>

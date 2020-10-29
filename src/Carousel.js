@@ -6,6 +6,9 @@ import use from "./image/use.jpg"
 import pencilc from "./image/pencilc.jpg"
 import Layout from "./Layout"
 import learn from "./image/learn.jpg"
+import hain from "./Pics/hain.jpg"
+import dass from "./Pics/dass.jpg"
+import kill from "./image/kill.jpg"
 
 
 
@@ -22,14 +25,60 @@ function ControlledCarousel() {
           
           <div>
       <ReactBootStrap.Carousel  activeIndex={index} onSelect={handleSelect}>
-    
+
+
+
+
+
+      <ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={hain}
+            alt="Third slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Care and responsibility</h3>
+            <p>
+              We offer optimum care to ensure the safety of our children .
+            </p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+      
+
+
+
+<ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={kill}
+            alt="Third slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Fun Extra-curricular activities</h3>
+            <p>
+              Learn while having fun at our school.
+            </p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+      
+
+
+
+
+
+
+
+
+
+
         <ReactBootStrap.Carousel.Item className="mas">
 
-         
-         <img
+        <img
             className="d-block w-100"
           
-            src= {use}
+            src= {dass}
             alt="First slide"
             
           />
@@ -56,21 +105,12 @@ function ControlledCarousel() {
             <p>Learn virtually and enjoy interactive sessions.</p>
           </ReactBootStrap.Carousel.Caption>
         </ReactBootStrap.Carousel.Item>
-        <ReactBootStrap.Carousel.Item className="mas">
-          <img
-            className="d-block w-100"
-            src={pencilc}
-            alt="Third slide"
-          />
-  
-          <ReactBootStrap.Carousel.Caption>
-            <h3>Care and responsibility</h3>
-            <p>
-              We offer optimum care to ensure the safety of our children .
-            </p>
-          </ReactBootStrap.Carousel.Caption>
-        </ReactBootStrap.Carousel.Item>
+
+
+
+        
       </ReactBootStrap.Carousel>
+
       </div>
       </div>
     );

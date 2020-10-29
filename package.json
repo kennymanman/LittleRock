@@ -9,7 +9,9 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@tt92618/custom-react-calendar": "^1.0.10",
     "bootstrap": "^4.5.0",
+    "google-map-react": "^2.1.8",
     "google-maps-react": "^2.0.6",
     "grommet": "^2.14.0",
     "grommet-icons": "^4.4.0",
@@ -17,6 +19,8 @@
     "polished": "^3.6.5",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
+    "react-calendar": "^3.1.0",
+    "react-day-picker": "^7.4.8",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
@@ -44,5 +48,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }

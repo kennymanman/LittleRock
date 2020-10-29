@@ -68,8 +68,10 @@
    text-align: center;
  }
 .mb{
-  text-align: center;
-  color: #00c3ff;
+  text-align: left;
+  color:  #00c3ff;
+  padding-left:8rem;
+  font-size:4rem;
 }
 .navy{
   background-color: #1f68cf;
@@ -77,9 +79,7 @@
 .lan{
   color: #00c3ff;
 }
-.bag{
-  column-width: ;
-}
+
 .mau{
   color: yellow;
 }
@@ -111,10 +111,11 @@
   color: yellow;
 }
 .cv{
-  background-color:  #1f68cf;
+  background-color: #f5e464;
 }
 .jc{
-  color: yellow;
+  color:  #00c3ff;
+  padding-top:4rem;
 }
 .cj{
   color: white
@@ -128,10 +129,12 @@
   
 }
 .df{
-  color: #00c3ff;
+  color: yellow;
+  padding-bottom:30px;
+  padding-top:20px;
 }
 .uy{
-  background-color: rgb(255, 208, 0);
+  background-color: #3ccf77;
 }
 
 
@@ -139,20 +142,20 @@
 
 .rey{
   text-align: center;
-  color: #00c3ff;
+  color: white;
 }
 .rut{
   color: aliceblue;
 }
 .juli{
-  color: #1f68cf
+  color: #1f68cf;
+  background-color:#fa8c4d;
 }
 .xs{
-  color: #1f68cf
+  color: #f5f364;
+  padding-top:3rem;
 }
-.life{
-  background-color: #FFFEB4;
-}
+
 .rem{
   background-color: white;
 }
@@ -160,12 +163,10 @@
 
 .kin{
   color: #00c3ff;
-  text-align: center;
+  font-size: 4rem;
 }
 
-.fg{
-  
-}
+
 .cuv{
   text-align:center;
 }
@@ -183,40 +184,77 @@
 }
 .sam{
   border-radius: 25px;
-  background-color:  #83EAF1;
+  background-color:  #64f5b9;
 }
 .dam{
   border-radius: 25px;
-  background-color:  #09C6F9 
-  ;
+  background-color: #64f5d8;
+  
 }
 .fam{
   border-radius: 25px;
-  background-color: #63A4FF;
+  background-color: #64f5ee;
 }
 
 .gam{
   border-radius: 25px;
-  background-color: #009FFD
+  background-color: #64e2f5
   ;
 }
 .ham{
   border-radius: 25px;
-  background-color:  #045DE9;
+  background-color:  #64cef5;
 }
 .oam{
   border-radius: 25px;
-  background-color: #BFBFFF ;
+  background-color: #9764f5 ;
 }
 .pam{
   border-radius: 25px;
-  background-color: #A3A3FF;
+  background-color: #7564f5;
 }
 .lam{
   border-radius: 25px;
-  background-color: #7879FF;
+  background-color: #6481f5;
 }
 .kam{
   border-radius: 25px;
-  background-color:  #4949FF;
+  background-color:  #64aff5;
+}
+.piggy{
+  background-color:#1bd167;
+  
+  
+}
+
+.mine{
+  border-radius:90px
+}
+.pie{
+  color:#fffdfa;
+}
+.oie{
+   color:#fffdfa;
+   padding-bottom:50px;
+}
+.bull{
+  background-color:"#fa8c4d";
+}
+
+.bail{
+  align-content: "center";
+
+}
+.jammy{
+  color:white;
+}
+.mine{
+  background-color: #f56464;
+}
+.tam{
+  background-color: #cf3ccd;
+  border-radius: 25px;
+}
+.nova{
+  font-style: italic;
 }
