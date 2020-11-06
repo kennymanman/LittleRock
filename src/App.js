@@ -14,8 +14,8 @@ import Bottom from "./Bottom"
 import { List, Header, Icon, Image } from 'semantic-ui-react'
 import Container from "./Container"
 import * as ReactBootStrap from "react-bootstrap"
-import par from "./Staffimg/par.jpg"
-import pin from "./Staffimg/pin.jpg"
+import Nic from "./Staffimg/Nic.jpg"
+import Fort from "./Staffimg/Fort.jpg"
 import Media from "./Media"
 
 
@@ -82,15 +82,7 @@ function Home() {
 
 <ReactBootStrap.Jumbotron style={{marginRight:30, marginLeft:179, borderRadius:25, height:350, backgroundColor:"#ff7f08"}}>
 
-{/*<img style={{position:"absolute", height:400, width:10}}
-            className="d-block w-30"
-            src={pin}
-            
-  />*/}
-
-
-
-<Image src={par} style={{borderRadius:1000, width:170, marginLeft:65, height:170}} />
+<Image src={Fort} style={{borderRadius:1000, width:170, marginLeft:60, height:170}} />
 
 <h4 style={{textAlign:"center", marginTop:15, paddingRight:100, paddingLeft:100, color:"white"}}> Mrs Ogundiya Comfort</h4>
 <p style={{ color:"white"}} >
@@ -108,7 +100,7 @@ function Home() {
 
 <ReactBootStrap.Jumbotron style={{marginRight:50, marginLeft:20, borderRadius:25, height:350, backgroundColor:"#fc7b03"}}>
 
-<Image src={par} style={{borderRadius:1000, width:170, marginLeft:62, height:170}} />
+<Image src={Nic} style={{borderRadius:1000, width:170, marginLeft:62, height:170}} />
     
 <h4 style={{textAlign:"center", marginTop:15, paddingRight:125, marginLeft:95, color:"white"}}>Mr Okafor Nicholas</h4>
  <p style={{color:"white"}}>
@@ -126,7 +118,7 @@ function Home() {
 
 <ReactBootStrap.Jumbotron style={{marginRight:179, marginLeft:5, borderRadius:25, height:350, backgroundColor:"#fc7b03"}}>
 
-<Image src={par} style={{borderRadius:1000, width:170, marginLeft:59, height:170}} />
+<Image src={Nic} style={{borderRadius:1000, width:170, marginLeft:59, height:170}} />
 
 <h4 style={{textAlign:"center", marginTop:35, paddingLeft:110, paddingRight:100, marginRight:20, color:"white"}}> Okafor Ekene</h4>
 <p style={{marginTop:10, marginLeft:25 , color:"white"}}>
