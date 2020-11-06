@@ -9,7 +9,8 @@ import learn from "./image/learn.jpg"
 import hain from "./Pics/hain.jpg"
 import dass from "./Pics/dass.jpg"
 import kill from "./image/kill.jpg"
-
+import two from "./Schoolimg/two.jpg"
+import four from "./Schoolimg/four.jpg"
 
 
 function ControlledCarousel() {
@@ -78,7 +79,7 @@ function ControlledCarousel() {
         <img
             className="d-block w-100"
           
-            src= {dass}
+            src= {two}
             alt="First slide"
             
           />
@@ -97,6 +98,23 @@ function ControlledCarousel() {
           <img
             className="d-block w-100"
             src={learn}
+            alt="Second slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Experience our virtual classes</h3>
+            <p>Learn virtually and enjoy interactive sessions.</p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+
+
+
+
+
+        <ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={four}
             alt="Second slide"
           />
   

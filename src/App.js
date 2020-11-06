@@ -80,13 +80,27 @@ function Home() {
 
 
 
-<ReactBootStrap.Jumbotron style={{marginRight:30, marginLeft:179, borderRadius:25, height:350, backgroundColor:"#ff7f08"}}>
+<ReactBootStrap.Jumbotron style={{marginRight:10, marginLeft:179, borderRadius:25, height:310, backgroundColor:"#ff7f08"}}>
 
-<Image src={Fort} style={{borderRadius:1000, width:170, marginLeft:60, height:170}} />
+<Image src={Fort} style={{borderRadius:1000, width:170, marginLeft:57, height:170, marginRight:0}} />
 
-<h4 style={{textAlign:"center", marginTop:15, paddingRight:100, paddingLeft:100, color:"white"}}> Mrs Ogundiya Comfort</h4>
-<p style={{ color:"white"}} >
-    Head Teacher of Little Rock School LagosState.
+<h4 style={{textAlign:"center", marginTop:15, paddingRight:0, paddingLeft:0, color:"white"}}> Mrs Ogundiya Comfort</h4>
+<p style={{ color:"white", textAlign:"center"}} >
+    Head Teacher of Little Rock School Lagos State.
+  </p>
+  
+</ReactBootStrap.Jumbotron>
+
+
+
+
+<ReactBootStrap.Jumbotron style={{marginRight:30, marginLeft:40, borderRadius:25, height:310, backgroundColor:"#ff7f08"}}>
+
+<Image src={Nic} style={{borderRadius:1000, width:170, marginLeft:60, height:170, marginRight:30}} />
+
+<h4 style={{textAlign:"center", marginTop:15, paddingRight:0, paddingLeft:0, color:"white"}}> Mr Okafor Nicholas</h4>
+<p style={{ color:"white", textAlign:"center"}} >
+    Head Teacher of Little Rock School Imo State.
   </p>
   
 </ReactBootStrap.Jumbotron>
@@ -98,33 +112,23 @@ function Home() {
 
 
 
-<ReactBootStrap.Jumbotron style={{marginRight:50, marginLeft:20, borderRadius:25, height:350, backgroundColor:"#fc7b03"}}>
 
-<Image src={Nic} style={{borderRadius:1000, width:170, marginLeft:62, height:170}} />
-    
-<h4 style={{textAlign:"center", marginTop:15, paddingRight:125, marginLeft:95, color:"white"}}>Mr Okafor Nicholas</h4>
- <p style={{color:"white"}}>
-   Head Teacher of Little Rock School Imo State
+
+
+
+
+
+
+
+<ReactBootStrap.Jumbotron style={{marginRight:30, marginLeft:25, borderRadius:25, height:310, backgroundColor:"#ff7f08"}}>
+
+<Image src={Fort} style={{borderRadius:1000, width:170, marginLeft:55, height:170, marginRight:50}} />
+
+<h4 style={{textAlign:"center", marginTop:15, paddingRight:0, paddingLeft:0, color:"white"}}> Okafor Ekene</h4>
+<p style={{ color:"white", textAlign:"center"}} >
+    Head of Little Rock I.T department.
   </p>
- 
-</ReactBootStrap.Jumbotron>
-
-
-
-
-
-
-
-
-<ReactBootStrap.Jumbotron style={{marginRight:179, marginLeft:5, borderRadius:25, height:350, backgroundColor:"#fc7b03"}}>
-
-<Image src={Nic} style={{borderRadius:1000, width:170, marginLeft:59, height:170}} />
-
-<h4 style={{textAlign:"center", marginTop:35, paddingLeft:110, paddingRight:100, marginRight:20, color:"white"}}> Okafor Ekene</h4>
-<p style={{marginTop:10, marginLeft:25 , color:"white"}}>
-    Head of Little Rock School I.C.T team
-  </p>
- 
+  
 </ReactBootStrap.Jumbotron>
 
 
