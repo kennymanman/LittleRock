@@ -57,7 +57,7 @@ function News(){
 
 <style>{birthdayStyle}</style>
 
-<DayPicker  modifiers={modifiers} month={new Date(2020, 9)}   />
+<DayPicker  modifiers={modifiers} month={new Date(2020, 10)}   />
 
 </div>
 

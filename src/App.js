@@ -29,7 +29,7 @@ function App(){
 
    <div className="main"> 
       <nav className="pyt">
-        <h1 className="mani">LITTLE ROCK NURSERY & PRIMARY SCHOOL</h1>
+        <h1 className="mani">LITTLE ROCK SCHOOL</h1>
         <h2 className="mani">Lagos . Abuja . Owerri</h2>
       </nav>
       <Navigation />

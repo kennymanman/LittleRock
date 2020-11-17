@@ -6,7 +6,12 @@ import Dan from "./Dan"
 import * as ReactBootStrap from "react-bootstrap"
 import  {List} from "semantic-ui-react"
 import dex from "./img/dex.jpg"
-
+import tax from "./Schoolimg/tax.jpg"
+import los from "./Schoolimg/los.png"
+import pos from "./Schoolimg/pos.png"
+import bos from "./Schoolimg/bos.png"
+import gos from "./Schoolimg/gos.png"
+import kos from "./Schoolimg/kos.png"
 
 
 export default function Gallery() {
@@ -24,7 +29,7 @@ export default function Gallery() {
     <div>
 
 
-<img style={{position:"absolute", height:1320}}
+<img style={{position:"absolute", height:800}}
             className="d-block w-100"
             src={vack}
             
@@ -46,10 +51,13 @@ export default function Gallery() {
 <h3 style={{marginTop:20, position:"relative", color:"white"}}>Little Rock School Environment</h3>
 <ReactBootStrap.Carousel  activeIndex={index} onSelect={handleSelect}>
 
+
+
+
 <ReactBootStrap.Carousel.Item className="mas">
 <img
 className="d-block w-100"
-src= {pikin}
+src= {los}
 alt="First slide"
         
 />
@@ -64,13 +72,63 @@ alt="First slide"
 <ReactBootStrap.Carousel.Item className="mas">
 <img
 className="d-block w-100"
-src= {pikin}
+src= {pos}
 alt="First slide"
         
 />
 <ReactBootStrap.Carousel.Caption>
-<h3>Little Rock Excursion</h3>
-<p>Little Rock pupils having fun and enjoying the excursion.</p>
+<h3>Little Rock Environment</h3>
+<p>A safe and serene learning environment for your kids.</p>
+</ReactBootStrap.Carousel.Caption>
+</ReactBootStrap.Carousel.Item>
+
+
+
+
+<ReactBootStrap.Carousel.Item className="mas">
+<img
+className="d-block w-100"
+src= {bos}
+alt="First slide"
+        
+/>
+<ReactBootStrap.Carousel.Caption>
+<h3>Little Rock Environment</h3>
+<p>A safe and serene learning environment for your kids.</p>
+</ReactBootStrap.Carousel.Caption>
+</ReactBootStrap.Carousel.Item>
+
+
+
+
+
+
+<ReactBootStrap.Carousel.Item className="mas">
+<img
+className="d-block w-100"
+src= {gos}
+alt="First slide"
+        
+/>
+<ReactBootStrap.Carousel.Caption>
+<h3>Little Rock Environment</h3>
+<p>A safe and serene learning environment for your kids.</p>
+</ReactBootStrap.Carousel.Caption>
+</ReactBootStrap.Carousel.Item>
+
+
+
+
+<ReactBootStrap.Carousel.Item className="mas">
+<img
+className="d-block w-100"
+src= {kos}
+alt="First slide"
+        
+/>
+<ReactBootStrap.Carousel.Caption>
+<h3>Little Rock Environment</h3>
+<p>A safe and serene learning environment for your kids.</p>
 </ReactBootStrap.Carousel.Caption>
 </ReactBootStrap.Carousel.Item>
 
@@ -78,26 +136,10 @@ alt="First slide"
 
 
 
-<br/>
+{/*<br/>
 <h3 style={{marginTop:20, position:"relative", color:"white"}}>Little Rock School Excursion.</h3>
 <ReactBootStrap.Carousel  activeIndex={index} onSelect={handleSelect}>
 
-<ReactBootStrap.Carousel.Item className="mas">
-<img
-className="d-block w-100"
-src= {pikin}
-alt="First slide"
-        
-/>
-<ReactBootStrap.Carousel.Caption>
-<h3>Little Rock Excursion</h3>
-<p>Little Rock pupils having fun and enjoying the excursion.</p>
-</ReactBootStrap.Carousel.Caption>
-</ReactBootStrap.Carousel.Item>
-
-
-
-
 
 <ReactBootStrap.Carousel.Item className="mas">
 <img
@@ -113,7 +155,24 @@ alt="First slide"
 </ReactBootStrap.Carousel.Item>
 
 
-</ReactBootStrap.Carousel>
+
+
+
+<ReactBootStrap.Carousel.Item className="mas">
+<img
+className="d-block w-100"
+src= {pikin}
+alt="First slide"
+        
+/>
+<ReactBootStrap.Carousel.Caption>
+<h3>Little Rock Excursion</h3>
+<p>Little Rock pupils having fun and enjoying the excursion.</p>
+</ReactBootStrap.Carousel.Caption>
+</ReactBootStrap.Carousel.Item>
+
+
+</ReactBootStrap.Carousel>*/}
 <br/>
 
 

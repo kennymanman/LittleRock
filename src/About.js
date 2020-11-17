@@ -115,7 +115,7 @@ function About() {
 
             <br/>
              <Container text className="enjoy" style={{position:"relative", paddingTop:30}}>
-    <Header as='h2'>Letter from our board of directors</Header>
+    <Header as='h2'>Letter from the chairman of the board of directors</Header>
     <p style={{color:"white"}}>
     Dear parents/Guardians<br/>
     I would like to welcome you to our school website. It is designed to give you a glimpse of our school and is packed with information that you as parents and carers will need to know. The website has information on all the aspects of our school including Safeguarding, admissions criteria, times of the school day, school uniform and before and after school care. 
@@ -142,9 +142,21 @@ At little rock schools, we have a very strong vision which forms a fundamental p
     </p>
     <br/>
     <br/>
-    <p style={{color:"white"}}>Mr I.B Okafor & Mrs Ify Okafor.</p>
+
     
-<p style={{color:"white"}}>Chairman & Administrator of Little Rock Schools.</p>
+    <p style={{color:"white"}}>Mr I.B Okafor.</p>
+
+    <div style={{flexDirection:"row",  display:"flex"}}>
+    <p style={{ color:"white"}}>Chairman of the board of Little Rock Schools.</p>
+    <Image style={{marginLeft:190}} src='https://react.semantic-ui.com/images/wireframe/image.png' size='small' />
+
+</div>
+
+
+
+
+
+
   </Container>
 
   <br/>

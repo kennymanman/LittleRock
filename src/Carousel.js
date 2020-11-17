@@ -11,6 +11,14 @@ import dass from "./Pics/dass.jpg"
 import kill from "./image/kill.jpg"
 import two from "./Schoolimg/two.jpg"
 import four from "./Schoolimg/four.jpg"
+import brew from "./Schoolimg/brew.png"
+import magic from "./Schoolimg/magic.png"
+import ragic from "./Schoolimg/ragic.png"
+import xar from "./Schoolimg/xar.png"
+import nar from "./Schoolimg/nar.png"
+import oli from "./Schoolimg/oli.png"
+
+
 
 
 function ControlledCarousel() {
@@ -30,6 +38,33 @@ function ControlledCarousel() {
 
 
 
+      <ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={nar}
+            alt="Third slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Care and responsibility</h3>
+            <p>
+              We offer optimum care to ensure the safety of our children .
+            </p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       <ReactBootStrap.Carousel.Item className="mas">
           <img
@@ -39,9 +74,9 @@ function ControlledCarousel() {
           />
   
           <ReactBootStrap.Carousel.Caption>
-            <h3>Care and responsibility</h3>
+            <h3>Safe and secure environment</h3>
             <p>
-              We offer optimum care to ensure the safety of our children .
+              Security measures are ensured for a safe environment.
             </p>
           </ReactBootStrap.Carousel.Caption>
         </ReactBootStrap.Carousel.Item>
@@ -79,7 +114,7 @@ function ControlledCarousel() {
         <img
             className="d-block w-100"
           
-            src= {two}
+            src= {magic}
             alt="First slide"
             
           />
@@ -114,13 +149,60 @@ function ControlledCarousel() {
         <ReactBootStrap.Carousel.Item className="mas">
           <img
             className="d-block w-100"
-            src={four}
+            src={xar}
             alt="Second slide"
           />
   
           <ReactBootStrap.Carousel.Caption>
-            <h3>Experience our virtual classes</h3>
-            <p>Learn virtually and enjoy interactive sessions.</p>
+            <h3>Experience the best</h3>
+            <p>When young children start school, they bring an innate sense of curiosity, wonder and excitement.</p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+
+
+
+
+
+
+
+        <ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={oli}
+            alt="Second slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Our children the roots of our future</h3>
+            <p>The joy and instinctive sense of wonder and delight.</p>
+          </ReactBootStrap.Carousel.Caption>
+        </ReactBootStrap.Carousel.Item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <ReactBootStrap.Carousel.Item className="mas">
+          <img
+            className="d-block w-100"
+            src={ragic}
+            alt="Second slide"
+          />
+  
+          <ReactBootStrap.Carousel.Caption>
+            <h3>Interactive classroom learning</h3>
+            <p>Interactivity among our pupils is encouraged to enable them grow not only academically but socially.</p>
           </ReactBootStrap.Carousel.Caption>
         </ReactBootStrap.Carousel.Item>
 
