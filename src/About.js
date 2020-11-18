@@ -11,6 +11,7 @@ import he from "./img/he.jpg"
 import ke from "./img/je.jpg"
 import ce from "./img/ce.jpg"
 import be from "./img/be.jpg"
+import dad from "./Schoolimg/dad.jpg"
 
 
 
@@ -26,7 +27,7 @@ function About() {
 
 
         <div className="life" >
-        <img style={{position:"absolute", height:2119}}
+        <img style={{position:"absolute", height:2142}}
             className="d-block w-100"
             src={be}
             
@@ -148,7 +149,7 @@ At little rock schools, we have a very strong vision which forms a fundamental p
 
     <div style={{flexDirection:"row",  display:"flex"}}>
     <p style={{ color:"white"}}>Chairman of the board of Little Rock Schools.</p>
-    <Image style={{marginLeft:190}} src='https://react.semantic-ui.com/images/wireframe/image.png' size='small' />
+    <Image style={{marginLeft:190}} src={dad} size='small' />
 
 </div>
 
