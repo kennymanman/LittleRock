@@ -1,11 +1,5 @@
 import React from 'react'
-import { Grid, Image} from 'semantic-ui-react'
-import Layout from "./Layout"
-import election from "./Newspic/election.jpg"
-import bun from "./Newspic/bun.jpg"
-import penbag from "./Newspic/penbag.jpg"
-import teach from "./Newspic/teach.jpg"
-import resume from "./Newspic/resume.jpg"
+
 import * as ReactBootStrap from "react-bootstrap"
 import {Button} from "react-bootstrap"
 
@@ -19,7 +13,7 @@ function Newsinfo(){
 <ReactBootStrap.Accordion>
   <ReactBootStrap.Card>
     <ReactBootStrap.Card.Header>
-      <ReactBootStrap.Accordion.Toggle as={Button} variant="link" eventKey="0">
+      <ReactBootStrap.Accordion.Toggle as={Button} variant="link" >
         Little Rock School Resumption
       </ReactBootStrap.Accordion.Toggle>
     </ReactBootStrap.Card.Header>

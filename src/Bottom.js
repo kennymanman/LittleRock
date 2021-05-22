@@ -1,6 +1,5 @@
 import React from 'react'
 import { Divider, Grid, Image, Segment } from 'semantic-ui-react'
-import { Icon } from 'semantic-ui-react'
 import { List } from 'semantic-ui-react'
 import Layout from "./Layout"
 import { Message } from 'semantic-ui-react'
